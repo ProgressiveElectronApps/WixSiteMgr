@@ -7,11 +7,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/ProgressiveElectronApps/WixSiteMgr">
-    <img src="images/banner2.png" alt="Logo" width="932" height="306">
+    <img src="images/wixBANNERpea.png" alt="Logo" width="932" height="306">
   </a>
 
   <p align="center">
-    A free and secure email service that's powered by the community, not surveillance capitalism.
+    Manage your Wix.com websites with ease.
     <br />
     ----·----
     <br />
